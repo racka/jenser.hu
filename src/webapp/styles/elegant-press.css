@@ -129,6 +129,9 @@ float: right;
 clear: right;
 margin: 0 0 8px 8px
 }
+div.main-wrapper {
+    background: transparent;
+}
 div.main-container {
 display: block;
 text-align: left;
@@ -466,7 +469,7 @@ padding: 4px
 display: block;
 float: left;
 width: 220px;
-margin: 0 0 0 50px;
+margin-left: 370px;
 padding: 0
 }
 .grid .footbox li {
