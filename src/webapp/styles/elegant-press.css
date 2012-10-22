@@ -173,7 +173,7 @@ margin: 0;
 padding: 0
 }
 header h1 a {
-font-family: 'Permanent Marker', cursive; /*'ChunkFive Regular', Arial, Helvetica, sans-serif;*/
+font-family: 'ChunkFive Regular', Arial, Helvetica, sans-serif;
 font-size: 40px;
 text-shadow: 0 3px 3px #555;
 -webkit-transition: all 200ms linear;
