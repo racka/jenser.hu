@@ -1173,14 +1173,17 @@ background-color: #E0E0E0
 #home_featured2 h2 {
 text-align: center
 }
-#gallery {
+#gallery, #partners {
 position: relative;
 display: block;
 width: 900px;
 padding-bottom: 10px;
 margin: 0 auto
 }
-#gallery li {
+#partners{
+height: 400px
+}
+#gallery li, #partners li {
 display: block;
 float: left;
 width: 280px;
@@ -1199,6 +1202,11 @@ padding: 0;
 -o-transition: all 1s ease-out;
 -ms-transition: all 1s ease-out;
 transition: all 1s ease-out
+}
+#partners li img {
+display: block;
+margin: 0;
+padding: 0;
 }
 #gallery li a:hover img {
 -webkit-border-radius: 10px;
@@ -1279,7 +1287,7 @@ right: 20px;
 padding: 10px
 }
 #slide1 .slideheading,#slide2 .slideheading,#slide3 .slideheading {
-font-family: 'Gravitas One', cursive; '/* "ChunkFive Regular", Georgia, serif; */
+font-family: 'Radley', serif; '/* "ChunkFive Regular", Georgia, serif; */
 color: #FFF;
 font-size: 30px;
 letter-spacing: 2px;
