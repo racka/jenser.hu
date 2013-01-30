@@ -100,8 +100,9 @@ margin-top: -15px
 }
 a {
 outline: none;
+font-weight: bold;
 text-decoration: none;
-color: #A3443E
+color: black;
 }
 .tagline_left {
 float: left
