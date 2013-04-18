@@ -657,13 +657,13 @@ color: #333;
 font-family: Artifika, Arial, Helvetica, sans-serif
 }
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {
-color: #292929;
+color: white;
 font-family: Artifika, Arial, Helvetica, sans-serif
 }
 p {
 color: #000
 }
-#tagline,#tagline1 {
+.mainContact,#tagline,#tagline1 {
 padding-top: 5px;
 font-size: 12px;
 text-shadow: 0 0 3px #555;
